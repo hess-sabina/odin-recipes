@@ -1,0 +1,80 @@
+html.homepage {
+    background: url("../img/index-page.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+html.hummus-page {
+    background: url("../img/hummus-page.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+html.qutab-page {
+    background: url("../img/qutab-page.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+html.baklava-page {
+    background: url("../img/baklava-page.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+
+body.background-box {
+    background: black;
+    margin: 50px 50px 50px 50px;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 21px;
+}
+
+h1 {
+    color: #ebb65e;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 10px auto 0px auto;
+    padding: 21px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .4);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h2 {
+    color: #ebb65e;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+p, ul, ol {
+    color: white;
+    font-size:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.navigation {
+    list-style-type: none;
+    background: black;
+    margin: 50px 50px 50px 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 50px;
+}
+
+.navigation a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 50px 90px 50px 50px;
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 
+}
+
+.navigation a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.navigation a.active {
+    background-color: #4AA6D;
+    color: white;
+}
