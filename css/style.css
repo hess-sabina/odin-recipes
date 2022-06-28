@@ -19,62 +19,85 @@ html.baklava-page {
 }
 
 
-
-body.background-box {
+div.box-element {
     background: black;
-    margin: 50px 50px 50px 50px;
+    margin: 50px 500px 500px 500px;
     background-color: rgba(0, 0, 0, 0.6);
     padding: 21px;
 }
 
 h1 {
-    color: #ebb65e;
-    font-size: 50px;
+    color: white;
+    font-size: 3vw;
     font-weight: bold;
-    margin: 10px auto 0px auto;
+    margin: 50px 500px 50px 500px;
     padding: 21px;
     text-align: center;
-    background-color: rgba(0, 0, 0, .4);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    background-color: rgba(0, 0, 0, .7);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 4px 4px 4px black;
+}
+
+h1.main-header {
+    margin: 50px 0px 50px 0px;
+    color: white;
+    text-shadow: 4px 4px 4px black;
 }
 
 h2 {
     color: #ebb65e;
-    font-size: 35px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-size: 2vw;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px 2px black
 }
 
 p, ul, ol {
     color: white;
-    font-size:20px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-size:1vw;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-break: auto;
 }
 
-.navigation {
+
+img {
+    width: 100%;
+    height: 500px;
+    object-fit:cover;
+    border: 1px solid #ebb65e;
+}
+
+.navigation  {
     list-style-type: none;
-    background: black;
-    margin: 50px 50px 50px 50px;
-    background-color: rgba(0, 0, 0, 0.5);
+    margin: 150px 50px 50px 250px;
     padding: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
 
 .navigation a {
     float: left;
-    color: black;
-    text-align: center;
-    padding: 50px 90px 50px 50px;
+    padding: 50px 150px 50px 150px;
+    font-size: 2vw;
     text-decoration: none;
-    font-size: 40px;
+    color: white;
     font-weight: bold;
-    margin: 
+    text-shadow: 4px 3px 1px black;
+    background: rgba(0, 0, 0, 0.7)
 }
 
 .navigation a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 .navigation a.active {
-    background-color: #4AA6D;
-    color: white;
+    background-color: black;
+    color: grey;
+}
+
+footer {
+    color: black;
+    font-weight: bold;
+    position: fixed;
+    margin: 300px 200px;
 }
