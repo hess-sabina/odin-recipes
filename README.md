@@ -28,4 +28,4 @@ HTML & CSS foundations project for The Odin Project.
   
   Tools: Shell, VScode, Git, GitHub
   
-  ▶️ [Live Demo](https://nekusu.github.io/shopping-cart/)
+  ▶️ [Live Demo]("https://hess-sabina.github.io/odin-recipes/" target="_blank")
