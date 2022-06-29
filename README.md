@@ -9,8 +9,8 @@
 <br>
 <br>
   
-  <p>🛠️ Goal: Finish "The Odin Project"</p>
-  <p>🌱 Currently learning HTML & CSS, Node.j</p>
+  <p>⛰️ Goal: Finish "The Odin Project"</p>
+  <p>🌱 Currently learning HTML, CSS, Node.js & JavaScript</p>
   <p>😀 I enjoy outdoors and gaming in my free time.</p>
   <p>💬 Feel free to contact me via GitHub or Discord!</p>
   <p>⚡ Fun fact: My first line of code was not "Hello World!"</p>
