@@ -1,6 +1,6 @@
 ![](https://github.com/hess-sabina/odin-recipes/blob/f44a312953869dc766052c26b64e21f813563995/wb%20header%20gif.gif)
 
-<font face="Arial"><details><summary><b><h4>✨About me<h4></b></summary><br/>
+<details><summary><b><h4>✨About me<h4></b></summary><br/>
 
 <p align="left">Hi, I am S. I am self-taught Full Stack web developer from Germany, currently living in Belgium. Excited to my future in tech, to begin new projects and to get to know a new community. If you have any questions, feel free to 
 Current Goals 》Finish The Odin Project
@@ -33,4 +33,3 @@ With this project I will be demonstrating that I can do the following tasks:
 
 Going further in the foundations, CSS and JS will be added. 
   
-  </font>
