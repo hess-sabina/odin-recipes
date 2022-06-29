@@ -8,7 +8,7 @@
   <p>⛰️ Current goal: Finish "The Odin Project"</p>
   <p>🌱 Currently learning HTML, CSS, Node.js & JavaScript</p>
   <p>🙂 I enjoy hiking, photography and playing videogames in my free time.</p>
-  <p>💬 Feel free to contact me!</p>
+  <p>💬 Contact me if you have suggestions, need support, have offers or want to network!</p>
   <p>⚡ Fun fact: My first line of code was not "Hello World!"</p>
 </p></details>
   
