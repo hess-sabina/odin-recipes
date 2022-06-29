@@ -1,6 +1,6 @@
 ![](https://github.com/hess-sabina/odin-recipes/blob/f44a312953869dc766052c26b64e21f813563995/wb%20header%20gif.gif)
 
-<details><summary><b><h4>✨About me<h4></b></summary><br/>
+<details><summary><b><h4>👤 About me<h4></b></summary><br/>
 
 <p align="left">Hi, I am S. I am self-taught Full Stack web developer from Germany, currently living in Belgium. Excited about my future in tech, to start new projects and to get to know a new community. If you require any further information, feel free to contact me.
 <br>
@@ -11,7 +11,7 @@
   
   <p>⛰️ Goal: Finish "The Odin Project"</p>
   <p>🌱 Currently learning HTML, CSS, Node.js & JavaScript</p>
-  <p>😀 I enjoy outdoors and gaming in my free time.</p>
+  <p>🙂 I enjoy outdoors and gaming in my free time.</p>
   <p>💬 Feel free to contact me via GitHub or Discord!</p>
   <p>⚡ Fun fact: My first line of code was not "Hello World!"</p>
 </p></details>
