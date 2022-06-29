@@ -4,6 +4,7 @@
 
 <p align="left">Hi, I am S. I am self-taught Full Stack web developer from Germany, currently living in Belgium. Excited about my future in tech, to start new projects and to get to know a new community. If you require any further information, feel free to contact me.
 <br>
+<br>
   Current Goals 》Finish The Odin Project
 <br>
   
