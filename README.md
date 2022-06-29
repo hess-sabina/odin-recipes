@@ -1,6 +1,6 @@
 ![](https://github.com/hess-sabina/odin-recipes/blob/1dea549337c153e6677f66098442761d52e75b5f/wd%20header.png)
 
-<details><summary><b><h1>✨About me<h1></b></summary><br/>
+<details><summary><b><h3>✨About me<h3></b></summary><br/>
 
 Hi, I am S. 》I am self-taught Full Stack web developer from Germany, currently living in Belgium. Excited to find new challenges, projects and to get to know a new community. If you have any questions, you can contact me via GitHub or Discord.
 
