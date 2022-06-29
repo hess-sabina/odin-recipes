@@ -7,9 +7,10 @@
 <br>
   Current Goals 》Finish The Odin Project
 <br>
+<br>
   
-  <p>🛠️ Goal: oal is to finish TOP</p>
-  <p>🌱 Currently learning HTML & CSS</p>
+  <p>🛠️ Goal: Finish "The Odin Project"</p>
+  <p>🌱 Currently learning HTML & CSS, Node.j</p>
   <p>😀 I enjoy outdoors and gaming in my free time.</p>
   <p>💬 Feel free to contact me via GitHub or Discord!</p>
   <p>⚡ Fun fact: My first line of code was not "Hello World!"</p>
@@ -20,7 +21,10 @@
 </details>
 
 <details><summary><b><h4>🔍 Where to find me</h4></b></summary><br/>
- <p align="left"><a href="https://github.com/hess-sabina" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="http://discordapp.com/users/970420809573224458" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-blue" /></a></p></details>
+ <p align="left"><a href="https://github.com/hess-sabina" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<br>
+<br>
+<a href="http://discordapp.com/users/970420809573224458" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-blue" /></a></p></details>
 
 # About this project: Odin-recipes
 
