@@ -1,7 +1,9 @@
 ![](https://github.com/hess-sabina/odin-recipes/blob/1dea549337c153e6677f66098442761d52e75b5f/wd%20header.png)
 
-
-Hi, I am S. 》I am self-taught Full Stack web developer from Germany, currently living in Belgium. Excited to find new challenges, projects and to get to know a new community. If you have any questions, you can contact me via GitHub or Discord.
+<details>
+  <summary><b>✨About me</b></summary>
+  <br/>
+  Hi, I am S. 》I am self-taught Full Stack web developer from Germany, currently living in Belgium. Excited to find new challenges, projects and to get to know a new community. If you have any questions, you can contact me via GitHub or Discord.
 
 Current Goals 》Finish The Odin Project
 Languages 》
@@ -12,6 +14,9 @@ Tools 》
 😀 I enjoy outdoors and gaming in my free time. 
 💬 Feel free to contact me via GitHub or Discord!
 ⚡ Fun fact: My first line of code was not "Hello World!"
+  
+  <p align="left"> </p></details>
+  
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
