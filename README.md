@@ -28,4 +28,4 @@ HTML & CSS foundations project for The Odin Project.
   
   Tools: Shell, VScode, Git, GitHub
   
-  ▶️ <p><a href="https://hess-sabina.github.io/odin-recipes/" target="_blank">Live Demo</a></p>
+  ▶️ <a href="https://hess-sabina.github.io/odin-recipes/" target="_blank">Live Demo</a>
