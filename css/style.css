@@ -68,10 +68,11 @@ img {
 
 .navigation  {
     list-style-type: none;
-    margin: 150px 50px 50px 250px;
+    margin-left: 300px;
+    margin-top: 200px;
     padding: 50px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+   
 }
 
 .navigation a {
@@ -83,7 +84,7 @@ img {
     font-weight: bold;
     text-shadow: 4px 3px 1px black;
     background: rgba(0, 0, 0, 0.7);
-    
+   
     
 }
 
