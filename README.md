@@ -13,14 +13,31 @@
 </p></details>
   
 <details><summary><b><h4>🛠️ Languages & Tools<h4></b></summary><br/>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></details></p>
+<p align="left"> 
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/shell-%2320232a.svg?style=for-the-badge&logo=shell&logoColor=FFFFFF" height="35"></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF" height="35"></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=FFFFFF" height="35"></a>
+<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=FFFFFF" height="35"></a>
+  
+  <br>
+  
 
-<details><summary><b><h4>🤝 Connect with me</h4></b></summary><br/>
- <p align="left"><a href="https://github.com/hess-sabina" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<br>
-<br>
-<a href="http://discordapp.com/users/970420809573224458" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-blue" /></a></p></details>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=FFFFFF" height="35"></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" height="35"></a>
+<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=FFFFFF" height="35"></a>
+
+  
+  </details></p>
+
+<details><summary><b><h4>🤝 Connect with me</h4></b></summary>
+ 
+ <p align="left"> 
+  
+   <a href="https://github.com/hess-sabina"><img src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" height="35"></a>
+<a href="http://discordapp.com/users/970420809573224458"><img src="https://img.shields.io/badge/discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF" height="35"></a>
+
+  
+  </p></details>
 
 # About this project: Odin-recipes
 
