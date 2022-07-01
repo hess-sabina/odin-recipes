@@ -82,7 +82,9 @@ img {
     color: white;
     font-weight: bold;
     text-shadow: 4px 3px 1px black;
-    background: rgba(0, 0, 0, 0.7)
+    background: rgba(0, 0, 0, 0.7);
+    
+    
 }
 
 .navigation a:hover {
@@ -93,6 +95,7 @@ img {
 .navigation a.active {
     background-color: black;
     color: grey;
+    
 }
 
 footer {
@@ -101,3 +104,9 @@ footer {
     position: fixed;
     margin: 300px 200px;
 }
+
+body {
+    min-width: 1500px;
+    
+}
+
