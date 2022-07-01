@@ -30,5 +30,6 @@ HTML & CSS foundations project for The Odin Project.
   
  ▶️ <a href="https://hess-sabina.github.io/odin-recipes/" target="_blank">Live Demo</a>
   
- (https://github.com/hess-sabina/odin-recipes/blob/8fdd9009617356b7acd912f9757c1f8b7773e4b3/odin-recipe%20mockup.png)
+  
+ ![Alt text](https://github.com/hess-sabina/odin-recipes/blob/8fdd9009617356b7acd912f9757c1f8b7773e4b3/odin-recipe%20mockup.png)
   
